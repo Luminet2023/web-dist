@@ -1,0 +1,1 @@
+System.register(["./index-legacy.ebd850b2.js"],(function(e){"use strict";var t,n,r,c,u,a;return{setters:[e=>{t=e.dz,n=e.h,r=e.a9,c=e.cE,u=e.a1,a=e.a8}],execute:function(){e("default",(()=>{const[e]=t();return n(a,{get loading(){return e.loading},get children(){return n(r,{get children(){return e()?.content},get ext(){return c(u.obj.name)},toc:!0})}})}))}}}));
