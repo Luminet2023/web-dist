@@ -1,1 +1,0 @@
-System.register(["./index-legacy.ebd850b2.js"],(function(e){"use strict";var r,t,n,c,u;return{setters:[e=>{r=e.m,t=e.h,n=e.ar,c=e.E,u=e.S}],execute:function(){e("I",(e=>{const[s,a]=r(!1);return t(u,{get when(){return!s()},get fallback(){return e.fallbackErr},get children(){return t(n,c(e,{onError:()=>{a(!0)}}))}})}))}}}));
